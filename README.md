@@ -9,8 +9,8 @@ Just Build and then Run you asp.net core application and then run your angular p
 
 The url for testing is: https://localhost:44390/api/Pattern/aabbccdd <-- the last one is the pattern
 
-aaaabbbgggrrrr the return result must be 4a3b3g4r
-bb the return result must be 2b
-acbfgd the return result must be acbfgd
+aaaabbbgggrrrr the return result must be 4a3b3g4r  
+bb the return result must be 2b  
+acbfgd the return result must be acbfgd  
 
 Enjoy it!
